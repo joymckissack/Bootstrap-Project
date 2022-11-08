@@ -1,0 +1,19 @@
+.jumbotron{
+    background-image: url("/Users/joymckissack/Downloads/joy.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    color: pink;
+    }
+    
+    h2{
+        font-weight: bold;
+    }
+.dc{
+    width: 350px;
+    height: 500px;
+}
+.ff{
+    width: 350px;
+    height: 500px;
+}
